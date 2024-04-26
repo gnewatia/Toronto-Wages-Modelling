@@ -1,6 +1,6 @@
 # Who Makes 100K in Toronto? Evidence from September 2023 Labour Force Survey
 
-The project aims to uncover the key factors influencing wages in the city of Toronto using a binary logistic regression model. This involved conducting preliminary analyses and transforming the data to satisfy the assumptions of logistic regression model. Likelihood-ratio tests and Brier Scores were calculated to identify models suitable for two key purposes of statistical modelling: Explanation and Prediction.\
+The project aims to uncover the key factors influencing wages in the city of Toronto using a binary logistic regression model. This involved conducting preliminary analyses and transforming the data to satisfy the assumptions of logistic regression model. Likelihood-ratio tests and Brier Scores were calculated to identify models suitable for two key purposes of statistical modelling: Explanation and Prediction.
 
 Files
 
